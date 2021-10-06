@@ -34,3 +34,5 @@ BUGS:
 - grean disappears in 2nd safe space (makes all spaces squares or circles)  
 - win error  
 - win count
+
+![sorry-preview](https://user-images.githubusercontent.com/33261445/136136470-4bd24e12-8871-4f05-802a-2df495248d2c.png)
