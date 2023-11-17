@@ -1,4 +1,4 @@
-### MY BAD (SORRY) IN DISCORD ###
+### MY BAD (SORRY!) IN DISCORD ###
 
 PLAYER CONTROLS:  
 - React with emotes under board embeds sent by the bot
